@@ -1,0 +1,30 @@
+=================
+Bootstrap Colors
+=================
+Bootstrap give us 8 different Colors
+
+1. success (Green Type)
+2. warning (Orange Type)
+3. dark (Black Type)
+4. light (White Type)
+5. danger (Red Type)
+6. info (Blue Type)
+7. primary (Blue Type)
+8. secondary (Ash Type)
+
+
+=====================
+Bootstrap Grid System
+=====================
+
+Grid System divide full screen width in 12 part/columns that means
+1. Total 12 columns ==> Full Width (Left-Right)
+
+Bootstrap Device divided in 4 Type: sm md lg xl 
+sm => small Device (most useful)
+md => Medium Device (most useful)
+lg => Large Device
+xl => Extra Large Device
+col => Extra small Device
+
+
